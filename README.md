@@ -1,2 +1,2 @@
-# project_e_shopping
+# project_Shopsy
   Create an Shopping Website with React.
